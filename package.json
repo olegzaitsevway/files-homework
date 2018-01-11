@@ -8,7 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "eslint": "^4.13.1"
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.15.0"
   }
 }
